@@ -7,7 +7,14 @@
 у вас должен быть установлен meson
 [mesonbuild](https://mesonbuild.com/Quick-guide.html)
 
-- Сборка
-  `make build`
-- Запуск
-  `make`
+### Сборка meson зависимостей
+
+```sh make build```
+
+### Сборка и Запуск проекта
+
+```sh make```
+
+### Запуск проекта
+
+```sh make run```
