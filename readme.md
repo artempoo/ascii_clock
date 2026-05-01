@@ -9,12 +9,18 @@
 
 ### Сборка meson зависимостей
 
-```sh make build```
+```sh
+make build
+```
 
 ### Сборка и Запуск проекта
 
-```sh make```
+```sh
+make
+```
 
 ### Запуск проекта
 
-```sh make run```
+```sh
+make run
+```
